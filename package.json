@@ -15,7 +15,8 @@
     "forever": "0.15.1",
     "momnet": "2.29.1",
     "safe-push-apply": "1.0.0",
-    "call-bound": "1.0.3"
+    "call-bound": "1.0.3",
+    "tape": "2.3.3"
   },
   "comments": {
     "//": "a9 insecure components"
