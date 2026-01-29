@@ -14,7 +14,7 @@
     "express-session": "1.13.0",
     "forever": "0.15.1",
     "momnet": "2.29.1",
-    "@cxui/shared-ui": "^2.49.2",
+    "@cxui/shared-ui": "^2.49.2"
   },
   "comments": {
     "//": "a9 insecure components"
