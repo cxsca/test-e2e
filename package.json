@@ -13,10 +13,12 @@
     "express": "4.13.4",
     "express-session": "1.13.0",
     "forever": "0.15.1",
-    "momnet": "2.29.1",
     "safe-push-apply": "1.0.0",
     "call-bound": "1.0.3",
-    "tape": "2.3.3"
+    "mongodb": "^2.1.18",
+    "momnet": "2.29.1",
+    "bson": "1.0.9",
+    "nodemon": "1.19.1"
   },
   "comments": {
     "//": "a9 insecure components"
